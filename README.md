@@ -2,7 +2,7 @@
 
 ## Play online
 
-Webpage: https://bartashevich.github.io/information-visualization/
+Webpage: https://bartashevich.github.io/ultimate-pong/
 
 ## Cheats (number keys at the upper side of keyboard)
 Key 0 - Deploy wall
