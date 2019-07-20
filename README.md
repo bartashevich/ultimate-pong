@@ -1,5 +1,3 @@
-# information-visualization
-
 ## Play online
 
 Webpage: https://bartashevich.github.io/ultimate-pong/
