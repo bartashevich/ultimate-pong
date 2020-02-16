@@ -1,3 +1,6 @@
+# Ultimate Pong in 3D
+Classic game of pong, in a 3D environment
+
 ## Play online
 
 Webpage: https://bartashevich.github.io/ultimate-pong/
